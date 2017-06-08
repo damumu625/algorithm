@@ -1,2 +1,4 @@
-
-dw
+#include<stdio.h>
+main(){
+    printf("Hello world");
+}
